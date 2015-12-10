@@ -21,7 +21,6 @@ class Main : ApplicationListener {
         val atlas = TextureAtlas(Gdx.files.internal("textures/textures.atlas"))
         texture_region = atlas.findRegion("white_ball")
 
-        texture = Texture(Gdx.files.internal("libgdx-logo.png"))
         println("Main.create - pic loaded")
         batch = SpriteBatch()
     }
