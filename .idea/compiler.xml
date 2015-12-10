@@ -17,33 +17,33 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Annotation profile for splashnova-ios" enabled="true">
+      <profile default="false" name="Annotation profile for basecode-ios" enabled="true">
         <sourceOutputDir name="bin/generated-sources/annotations" />
         <sourceTestOutputDir name="bin/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="splashnova-ios" />
+        <module name="basecode-ios" />
       </profile>
-      <profile default="false" name="Annotation profile for splashnova-core" enabled="true">
+      <profile default="false" name="Annotation profile for basecode-core" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="splashnova-core" />
+        <module name="basecode-core" />
       </profile>
-      <profile default="false" name="Annotation profile for splashnova-desktop" enabled="true">
+      <profile default="false" name="Annotation profile for basecode-desktop" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="splashnova-desktop" />
+        <module name="basecode-desktop" />
       </profile>
-      <profile default="false" name="Annotation profile for splashnova-android" enabled="true">
+      <profile default="false" name="Annotation profile for basecode-android" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="splashnova-android" />
+        <module name="basecode-android" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -52,11 +52,6 @@
       <module name="basecode-core" target="1.7" />
       <module name="basecode-desktop" target="1.7" />
       <module name="basecode-ios" target="1.7" />
-      <module name="splashnova" target="1.7" />
-      <module name="splashnova-android" target="1.7" />
-      <module name="splashnova-core" target="1.7" />
-      <module name="splashnova-desktop" target="1.7" />
-      <module name="splashnova-ios" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
