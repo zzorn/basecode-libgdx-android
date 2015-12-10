@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basecode.iml" filepath="$PROJECT_DIR$/basecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/basecode-android.iml" filepath="$PROJECT_DIR$/android/basecode-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/basecode-core.iml" filepath="$PROJECT_DIR$/core/basecode-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desktop/basecode-desktop.iml" filepath="$PROJECT_DIR$/desktop/basecode-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ios/basecode-ios.iml" filepath="$PROJECT_DIR$/ios/basecode-ios.iml" />
+    </modules>
+  </component>
+</project>
